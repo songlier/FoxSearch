@@ -1,8 +1,9 @@
-<br>
-
-<h1 align="center">FoxSearch</h1>
-
-<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/assets/logos/vllm-logo-text-dark.png">
+    <img alt="vLLM" src="https://raw.githubusercontent.com/songlier/FoxSearch/main/FoxSearch.png" width=40%>
+  </picture>
+</p>
 
 <p align="center">一款本地部署的 AI 文件搜索工具，支持图片、视频的语义与 OCR 文字检索</p>
 
@@ -37,12 +38,6 @@ FoxSearch 使用中文 CLIP 模型理解图片和视频中的视觉内容，可�
 
 OCR 功能可以识别图片中的文字，并支持通过文字片段、文件名和路径进行检索。
 
-两种搜索方式互相补充：
-
-- AI 搜索适合理解图片语义。
-- OCR 搜索适合查找图片中的具体文字。
-- 文件名搜索适合查找具有明确命名规则的素材。
-
 ### 响应式网页界面
 
 网页界面兼容电脑宽屏和手机竖屏：
@@ -72,9 +67,7 @@ FoxSearch 支持批量修改图片、视频和 OCR 索引中的文件路径。
 
 当素材从一台电脑迁移到另一台电脑，或磁盘盘符发生变化时，可以直接替换索引中的旧路径，继续使用已有的视觉特征和 OCR 识别结果，减少重新扫描和重新识别的时间。
 
-如果替换后产生路径冲突，程序会重新计算对应记录，避免覆盖错误索引。
-
-### 增量支持
+### 增量版本支持
 
 - 文件浏览和多用户管理功能
 - 多个素材根目录。
@@ -86,7 +79,7 @@ FoxSearch 支持批量修改图片、视频和 OCR 索引中的文件路径。
 - 不同浏览器同时登录不同用户。
 - 普通用户只能访问自己的文件。
 - 管理员访问和管理所有用户的素材。
-- 请通过邮件联系获取
+- 【增量版本】请通过邮件联系获取
 
 ## 硬件要求
 
@@ -103,10 +96,6 @@ Windows：解压后运行
 ```
 http://127.0.0.1:8082
 ```
-
-## 模型
-
-整合包已自带模型，放在 `models` 文件夹中，并在 `.env` 中配置
 
 ## 配置
 通过设置 `.env` 文件进行配置
@@ -202,7 +191,9 @@ data/
 ## 致谢
 
 https://github.com/chn-lee-yumi/MaterialSearch
+
 https://github.com/yeqizhang/PaddleOCR-json
+
 https://github.com/hiroi-sora/Umi-OCR
 
 ## 赞赏支持
@@ -211,4 +202,4 @@ https://github.com/hiroi-sora/Umi-OCR
 
 <div align="center">  <!-- 将下方图片替换为实际赞赏码 --> <img src="docs/sponsor-qr.png" alt="赞赏码" width="260">  </div>
 
-感谢每一位使用、反馈和支持 FoxSearch 的用户
+感谢每一位使用、反馈和支持 FoxSearch 的用户，欢迎提 Issue ，请点免费 Star
