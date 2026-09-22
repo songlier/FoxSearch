@@ -1,6 +1,5 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/assets/logos/vllm-logo-text-dark.png">
     <img alt="vLLM" src="https://raw.githubusercontent.com/songlier/FoxSearch/main/FoxSearch.png" width=40%>
   </picture>
 </p>
@@ -21,10 +20,10 @@
 
 <br>
 
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/assets/logos/vllm-logo-text-dark.png">
-    <img alt="vLLM" src="https://raw.githubusercontent.com/songlier/FoxSearch/main/show.png" width=80%>
+    <img alt="vLLM" src="https://raw.githubusercontent.com/songlier/FoxSearch/main/show.png" width=100%>
   </picture>
 </p>
 
