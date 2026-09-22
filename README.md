@@ -208,10 +208,6 @@ https://github.com/hiroi-sora/Umi-OCR
 
 ## 支持
 
-<p align="center">
-  <picture>
-    <img alt="FoxSearch" src="https://github.com/user-attachments/assets/b2e2c449-49e8-42a2-a0d4-d8ec50c18c13" width=30%>
-  </picture>
-</p>
+感谢每一位使用、反馈和支持 FoxSearch 的用户
 
-感谢每一位使用、反馈和支持 FoxSearch 的用户，欢迎提 Issue ，请点免费 Star
+欢迎提 Issue ，请点免费 Star
