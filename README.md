@@ -196,8 +196,6 @@ https://github.com/yeqizhang/PaddleOCR-json
 
 https://github.com/hiroi-sora/Umi-OCR
 
-## 赞赏支持
-
-如果 FoxSearch 对你有帮助，欢迎通过赞赏支持项目维护。
+## 支持
 
 感谢每一位使用、反馈和支持 FoxSearch 的用户，欢迎提 Issue ，请点免费 Star
