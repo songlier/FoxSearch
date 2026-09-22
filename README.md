@@ -19,6 +19,17 @@
 - 以图搜视频
 - 图文相似度计算
 
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/assets/logos/vllm-logo-text-dark.png">
+    <img alt="vLLM" src="https://raw.githubusercontent.com/songlier/FoxSearch/main/show.png" width=80%>
+  </picture>
+</p>
+
+<br>
+
 ## 特色  
 
 - 视频相似片段定位
